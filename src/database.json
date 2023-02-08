@@ -1,0 +1,47 @@
+[
+    {
+    "titulo": "Chomba De Hombre Polo",
+    "descripcion": "Chomba De Hombre Entallada Manga Corta Gris",
+    "precio": 5000,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_615213-MLA47498329492_092021-O.webp",
+    "codigo": "CH1001",
+    "stock": 10,
+    "id": 1
+    },
+    {
+    "titulo": "producto prueba2",
+    "descripcion": "Este es un producto prueba2",
+    "precio": 200,
+    "imagen": "Sin imagen",
+    "codigo": "bc123",
+    "stock": 25,
+    "id": 2
+    },
+    {
+    "titulo": "producto prueba3",
+    "descripcion": "Este es un producto prueba3",
+    "precio": 200,
+    "imagen": "Sin imagen",
+    "codigo": "c123",
+    "stock": 25,
+    "id": 3
+    },
+    {
+    "titulo": "producto prueba4",
+    "descripcion": "Este es un producto prueba4",
+    "precio": 200,
+    "imagen": "Sin imagen",
+    "codigo": "123",
+    "stock": 25,
+    "id": 4
+    },
+    {
+    "titulo": "producto prueba5",
+    "descripcion": "Este es un producto prueba5",
+    "precio": 200,
+    "imagen": "Sin imagen",
+    "codigo": "23",
+    "stock": 25,
+    "id": 5
+    }
+]
